@@ -1,6 +1,6 @@
 # MLSecurityButton
 
-When the button clicked continuously，this category will be helpful to avoid invoke many times.
+When the button clicked continuously, this category will be helpful to avoid invoke many times.
 
 The button only response for the first event and then will ignore the remaining actions.
 
